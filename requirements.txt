@@ -2,7 +2,7 @@ fastapi==0.104.1
 uvicorn==0.24.0
 python-multipart==0.0.6
 PyPDF2==3.0.1
-pymupdf==1.23.8
+#pymupdf==1.23.8
 google-generativeai==0.3.2
 numpy==1.24.3
 sentence-transformers==2.2.2
@@ -14,4 +14,5 @@ huggingface-hub==0.19.4
 aiohttp==3.8.6
 
 #python -m uvicorn main:app --host 0.0.0.0 --port 8001 --reload
+
 #http://localhost:8001/app
