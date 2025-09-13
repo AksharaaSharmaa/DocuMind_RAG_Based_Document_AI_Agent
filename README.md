@@ -131,8 +131,8 @@ Transform your document workflow today with DocuMind's powerful AI-driven docume
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/DocuMind.git
-cd DocuMind
+git clone https://github.com/AksharaaSharmaa/DocuMind_RAG_Based_Document_AI.git
+cd DocuMind_RAG_Based_Document_AI
 ```
 
 ### 2. Create a virtual environment (recommended)
