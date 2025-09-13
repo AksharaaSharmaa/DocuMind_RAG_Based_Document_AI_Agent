@@ -1,4 +1,6 @@
-# DocuMind - AI Document Intelligence System
+<div align="center">
+  # DocuMind - AI Document Intelligence System
+</div>
 
 <div align="center">
 
