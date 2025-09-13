@@ -1,6 +1,5 @@
-<div align="center">
-  DocuMind - AI Document Intelligence System
-</div>
+<h1 align="center"><b>DocuMind - AI Document Intelligence System</b></h1>
+
 
 <div align="center">
 
